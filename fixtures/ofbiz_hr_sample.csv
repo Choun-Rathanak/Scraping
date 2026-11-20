@@ -1,0 +1,6 @@
+Issue key,Status,Priority,Created,Resolved,Labels,Description,Summary,Issue Type,Assignee accountId,Resolution
+OFBIZ-1,Closed,Major,2024-11-19,2024-11-25,"hr,leave","Leave form, with comma
+and a second line",Add leave form,Bug,acct-001,Fixed
+OFBIZ-2,Open,,2024-12-01T09:00:00+07:00,2024-12-01T17:00:00+07:00,attendance,Same-day attendance update,Attendance adjustment,New Feature,,Implemented
+OFBIZ-1,Closed,Major,2024-11-19,2024-11-25,hr,Duplicate should not export,Duplicate,Bug,acct-001,Fixed
+OFBIZ-3,Closed,Low,2024-12-10,2024-12-09,employee,Invalid negative duration,Bad record,Improvement,acct-003,Fixed
